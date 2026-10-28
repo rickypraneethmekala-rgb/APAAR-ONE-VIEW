@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Academic Mortarboard Cap (Top) -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M54,28 L32,38 L54,48 L76,38 Z" />
+
+    <!-- Cap Skull Base -->
+    <path
+        android:fillColor="#00B4D8"
+        android:pathData="M40,43 L40,51 C40,56 46,60 54,60 C62,60 68,56 68,51 L68,43 L54,49 Z" />
+
+    <!-- Tassel -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:pathData="M66,40 L74,45 L74,53" />
+
+    <!-- Connected Bridge & Verification Nodes (Bottom Emblem) -->
+    <!-- Central Shield / Bridge Node -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,58 C46,58 41,63 41,71 C41,78 49,83 54,85 C59,83 67,78 67,71 C67,63 62,58 54,58 Z" />
+
+    <!-- Shield Inner Check / Bridge Connection -->
+    <path
+        android:strokeColor="#0B1E36"
+        android:strokeWidth="2.2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M49,71 L52.5,74.5 L59,67" />
+
+    <!-- Connected Data Nodes (Left and Right Network Nodes) -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M31,64 A3,3 0 1,1 31,70 A3,3 0 1,1 31,64 Z" />
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M77,64 A3,3 0 1,1 77,70 A3,3 0 1,1 77,64 Z" />
+
+    <!-- Network Connection Bridge Links -->
+    <path
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="1.6"
+        android:strokeLineCap="round"
+        android:pathData="M34,67 L42,67 M66,67 L74,67" />
+</vector>

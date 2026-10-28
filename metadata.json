@@ -1,0 +1,8 @@
+{
+  "name": "APAAR OneView",
+  "description": "APAAR ID-Based Student Data Management and Verification Platform for AICTE-Approved Institutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
